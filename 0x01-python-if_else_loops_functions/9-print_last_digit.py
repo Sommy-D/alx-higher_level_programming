@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 9-print_last_digit.py
+
+
 def print_last_digit(number):
-    if number >= 0:
-        ld = number % 10
+
